@@ -47,6 +47,22 @@
 			"boxState": "angry",
 			"expression": "neutral",
 			"text": "A duel in which we don't have to hold back any longer."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "angry",
+			"expression": "smug",
+			"text": "After all, you must certainly see the butterflies here."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "aw",
+			"text": "Reach out for them, and they'll lead you to an even better rest, okay?"
 		}
 	]
 }

@@ -592,12 +592,9 @@ class DialogueBoxPsych extends FlxSpriteGroup
 
 		switch (PlayState.SONG.song)
 		{
-			// probably a better way of doing this
-			// but im hardcoding this since i got other things to do
 			case 'till-when' | 'ultimate-truth' | 'ghost-lead':
 				if (curDialogue.text == ".   .   ." && curDialogue.portrait == 'noChar' && curDialogue.expression == 'blank')
 				{
-					trace('till when special dialogue');
 					if (touhouBG != null)
 						FlxTween.tween(touhouBG, {alpha: 0}, 0.5);
 				}

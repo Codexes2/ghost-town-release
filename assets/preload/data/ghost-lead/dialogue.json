@@ -43,9 +43,9 @@
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "blank",
+			"portrait": "noChar",
 			"boxState": "normal",
-			"expression": "noChar",
+			"expression": "blank",
 			"text": ".   .   ."
 		},
 		{

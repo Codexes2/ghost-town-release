@@ -82,11 +82,27 @@
 		},
 		{
 			"sound": "youmuText",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "youmu",
 			"boxState": "angry",
 			"expression": "angry",
 			"text": "I will make sure you will not lay a finger on her!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "If my bullets aren't enough to take you down, then my blade will be enough!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.03,
+			"portrait": "youmu",
+			"boxState": "angry",
+			"expression": "neutral2",
+			"text": "So stay right where you are!"
 		}
 	]
 }

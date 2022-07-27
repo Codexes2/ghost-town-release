@@ -1041,6 +1041,19 @@ class PlayState extends MusicBeatState
 			dialogueJson = DialogueBoxPsych.parseDialogue(file);
 		}
 
+		/*
+			if (storyDifficulty == 2)
+			{
+				// hard coding this because im literally coding this 30 mins before release
+				switch (SONG.song)
+				{
+					case 'ultimate-truth' | 'border-of-life':
+						file = Paths.json(songName + '/dialogue-hard');
+						dialogueJson = DialogueBoxPsych.parseDialogue(file);
+				}
+			}
+		 */
+
 		var file:String = Paths.txt(songName + '/' + songName + 'Dialogue'); // Checks for vanilla/Senpai dialogue
 		if (OpenFlAssets.exists(file))
 		{
@@ -3346,6 +3359,12 @@ class PlayState extends MusicBeatState
 			trace("RESET = True");
 		}
 		doDeathCheck();
+
+		if (FlxG.keys.justPressed.F7)
+		{
+			// WE HAVE TO GO
+			endSong();
+		}
 
 		if (unspawnNotes[0] != null)
 		{
