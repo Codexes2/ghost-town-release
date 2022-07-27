@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fumo Dance.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fumo Dance0000" x="0" y="0" width="1298" height="736" frameX="-537" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0001" x="1298" y="0" width="1848" height="786" frameX="0" frameY="-50" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0002" x="0" y="786" width="1311" height="783" frameX="-537" frameY="-50" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0003" x="1311" y="786" width="1854" height="819" frameX="0" frameY="-17" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0004" x="0" y="1605" width="1321" height="833" frameX="-537" frameY="0" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0005" x="1321" y="1605" width="1846" height="787" frameX="0" frameY="-49" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0006" x="0" y="0" width="1298" height="736" frameX="-537" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0007" x="0" y="2438" width="1835" height="739" frameX="0" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0008" x="0" y="0" width="1298" height="736" frameX="-537" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0009" x="0" y="2438" width="1835" height="739" frameX="0" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0010" x="0" y="0" width="1298" height="736" frameX="-537" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0011" x="0" y="2438" width="1835" height="739" frameX="0" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0012" x="0" y="2438" width="1835" height="739" frameX="0" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0013" x="0" y="2438" width="1835" height="739" frameX="0" frameY="-97" frameWidth="1858" frameHeight="836"/>
+	<SubTexture name="Fumo Dance0014" x="0" y="0" width="1298" height="736" frameX="-537" frameY="-97" frameWidth="1858" frameHeight="836"/>
+</TextureAtlas>

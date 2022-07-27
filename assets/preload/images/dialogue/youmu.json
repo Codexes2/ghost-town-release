@@ -1,0 +1,59 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"idle_name": "angy0000",
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "neutral0000",
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "neutral20000",
+			"anim": "neutral2",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "panick0000",
+			"anim": "panic",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "thinking0000",
+			"anim": "thinking",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "what0000",
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "YoumuPortraits"
+}

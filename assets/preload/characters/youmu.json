@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-11
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Youmu Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Youmu Down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				4
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Youmu Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-27
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Youmu Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Youmu Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Youmu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "youmu",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		127,
+		83
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

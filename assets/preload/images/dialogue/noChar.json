@@ -1,0 +1,20 @@
+{
+	"dialogue_pos": "middle",
+	"position": [
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"scale": 1,
+	"animations": [
+		{
+			"idle_name": "noChar instance 10",
+			"anim": "blank",
+			"idle_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "noChar"
+}

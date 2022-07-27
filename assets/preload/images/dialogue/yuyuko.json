@@ -1,0 +1,60 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		30,
+		-40
+	],
+	"no_antialiasing": false,
+	"scale": 1.15,
+	"animations": [
+		{
+			"idle_name": "ah0000",
+			"anim": "ah",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "awww0000",
+			"anim": "aw",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "awww-0000",
+			"anim": "aw2",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "neutral0000",
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "sleep0000",
+			"anim": "sleep",
+			"idle_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "smug0000",
+			"anim": "smug",
+			"idle_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "YuyukoPortraits"
+}

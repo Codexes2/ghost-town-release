@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_items.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits basic0000" x="0" y="0" width="195" height="80"/>
+	<SubTexture name="extra start basic0000" x="195" y="0" width="272" height="79"/>
+	<SubTexture name="freeplay basic0000" x="0" y="80" width="221" height="83"/>
+	<SubTexture name="music room basic0000" x="0" y="163" width="292" height="80"/>
+	<SubTexture name="option basic0000" x="292" y="163" width="181" height="83"/>
+	<SubTexture name="quit basic0000" x="0" y="246" width="132" height="80"/>
+	<SubTexture name="shoutouts basic0000" x="132" y="246" width="252" height="79"/>
+	<SubTexture name="start basic0000" x="0" y="326" width="150" height="80"/>
+</TextureAtlas>

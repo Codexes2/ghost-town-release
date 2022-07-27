@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Youmu.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Youmu Down0000" x="0" y="0" width="718" height="607" frameX="-3" frameY="-2" frameWidth="726" frameHeight="609"/>
+	<SubTexture name="Youmu Down0001" x="718" y="0" width="718" height="607" frameX="-3" frameY="-2" frameWidth="726" frameHeight="609"/>
+	<SubTexture name="Youmu Down0002" x="1436" y="0" width="718" height="607" frameX="-3" frameY="-2" frameWidth="726" frameHeight="609"/>
+	<SubTexture name="Youmu Down0003" x="2154" y="0" width="722" height="600" frameX="-1" frameY="-1" frameWidth="726" frameHeight="609"/>
+	<SubTexture name="Youmu Down0004" x="2876" y="0" width="722" height="600" frameX="-1" frameY="-1" frameWidth="726" frameHeight="609"/>
+	<SubTexture name="Youmu Down0005" x="0" y="607" width="726" height="592" frameX="0" frameY="0" frameWidth="726" frameHeight="609"/>
+	<SubTexture name="Youmu Idle0000" x="726" y="607" width="689" height="616" frameX="-2" frameY="-5" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0001" x="1415" y="607" width="692" height="605" frameX="0" frameY="-7" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0002" x="1415" y="607" width="692" height="605" frameX="0" frameY="-7" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0003" x="2107" y="607" width="694" height="605" frameX="-1" frameY="-6" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0004" x="2107" y="607" width="694" height="605" frameX="-1" frameY="-6" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0005" x="2801" y="607" width="696" height="605" frameX="-2" frameY="-5" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0006" x="2801" y="607" width="696" height="605" frameX="-2" frameY="-5" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0007" x="0" y="1223" width="698" height="604" frameX="-3" frameY="-5" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0008" x="0" y="1223" width="698" height="604" frameX="-3" frameY="-5" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0009" x="698" y="1223" width="700" height="605" frameX="-4" frameY="-3" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0010" x="698" y="1223" width="700" height="605" frameX="-4" frameY="-3" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0011" x="1398" y="1223" width="702" height="605" frameX="-4" frameY="-2" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0012" x="1398" y="1223" width="702" height="605" frameX="-4" frameY="-2" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Idle0013" x="2100" y="1223" width="704" height="605" frameX="-5" frameY="0" frameWidth="709" frameHeight="621"/>
+	<SubTexture name="Youmu Left0000" x="2804" y="1223" width="734" height="602"/>
+	<SubTexture name="Youmu Left0001" x="2804" y="1223" width="734" height="602"/>
+	<SubTexture name="Youmu Left0002" x="0" y="1828" width="725" height="598" frameX="-3" frameY="-2" frameWidth="734" frameHeight="602"/>
+	<SubTexture name="Youmu Left0003" x="0" y="1828" width="725" height="598" frameX="-3" frameY="-2" frameWidth="734" frameHeight="602"/>
+	<SubTexture name="Youmu Left0004" x="725" y="1828" width="712" height="595" frameX="-9" frameY="-3" frameWidth="734" frameHeight="602"/>
+	<SubTexture name="Youmu Left0005" x="1437" y="1828" width="704" height="592" frameX="-12" frameY="-4" frameWidth="734" frameHeight="602"/>
+	<SubTexture name="Youmu Right0000" x="2141" y="1828" width="683" height="594" frameX="-17" frameY="-1" frameWidth="704" frameHeight="595"/>
+	<SubTexture name="Youmu Right0001" x="2141" y="1828" width="683" height="594" frameX="-17" frameY="-1" frameWidth="704" frameHeight="595"/>
+	<SubTexture name="Youmu Right0002" x="2824" y="1828" width="692" height="588" frameX="-10" frameY="-1" frameWidth="704" frameHeight="595"/>
+	<SubTexture name="Youmu Right0003" x="2824" y="1828" width="692" height="588" frameX="-10" frameY="-1" frameWidth="704" frameHeight="595"/>
+	<SubTexture name="Youmu Right0004" x="0" y="2426" width="700" height="582" frameX="-3" frameY="0" frameWidth="704" frameHeight="595"/>
+	<SubTexture name="Youmu Right0005" x="700" y="2426" width="704" height="578" frameX="0" frameY="0" frameWidth="704" frameHeight="595"/>
+	<SubTexture name="Youmu Up0000" x="1404" y="2426" width="665" height="618" frameX="-20" frameY="0" frameWidth="704" frameHeight="618"/>
+	<SubTexture name="Youmu Up0001" x="1404" y="2426" width="665" height="618" frameX="-20" frameY="0" frameWidth="704" frameHeight="618"/>
+	<SubTexture name="Youmu Up0002" x="2069" y="2426" width="682" height="613" frameX="-11" frameY="-1" frameWidth="704" frameHeight="618"/>
+	<SubTexture name="Youmu Up0003" x="2069" y="2426" width="682" height="613" frameX="-11" frameY="-1" frameWidth="704" frameHeight="618"/>
+	<SubTexture name="Youmu Up0004" x="2751" y="2426" width="697" height="608" frameX="-4" frameY="-3" frameWidth="704" frameHeight="618"/>
+	<SubTexture name="Youmu Up0005" x="0" y="3044" width="704" height="605" frameX="0" frameY="-4" frameWidth="704" frameHeight="618"/>
+</TextureAtlas>

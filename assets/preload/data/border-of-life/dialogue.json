@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bap!!"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "aw2",
+			"text": "Goodness, you are a rowdy one."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But after that duel, I want to know more of this... game."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep?!"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now that I'm all awake, let us have a true duel."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "A duel in which we don't have to hold back any longer."
+		}
+	]
+}

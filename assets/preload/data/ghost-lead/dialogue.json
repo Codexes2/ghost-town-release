@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "It seems that I was able to shoot some of my attacks."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral2",
+			"text": "But I can still fight until-"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "sleep",
+			"text": "*yawn* Now what's all this ruckus?"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "panic",
+			"text": "Mistress!"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "noChar",
+			"text": ".   .   ."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "... and that's what happened so far."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I see, so this strange little man can nullify danmaku?"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "That seems to be the case."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Interesting... but this person is not truly a spirit."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "It is a human from another realm."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.03,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "panic",
+			"text": "What?!"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Please rest, Youmu. I will take care of this."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral2",
+			"text": "Very well, Mistress."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bap!"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "ah",
+			"text": "You wish to return home, hmm?"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.04,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Normally, spirits wait a very long time before such a fate is decided."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.04,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "But since you are no spirit, I suppose I can make this an exception."
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why not face off against me first?"
+		},
+		{
+			"sound": "yuyukoText",
+			"speed": 0.05,
+			"portrait": "yuyuko",
+			"boxState": "normal",
+			"expression": "sleep",
+			"text": "After all, I'm still waking up from that long nap..."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		}
+	]
+}

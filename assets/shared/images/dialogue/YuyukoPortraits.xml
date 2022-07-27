@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YuyukoPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ah0000" x="0" y="0" width="598" height="692"/>
+	<SubTexture name="awww0000" x="598" y="0" width="598" height="692"/>
+	<SubTexture name="awww-0000" x="1196" y="0" width="598" height="697"/>
+	<SubTexture name="neutral0000" x="0" y="697" width="609" height="692"/>
+	<SubTexture name="sleep0000" x="609" y="697" width="598" height="723"/>
+	<SubTexture name="smug0000" x="1207" y="697" width="598" height="692"/>
+</TextureAtlas>

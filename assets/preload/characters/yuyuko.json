@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				3
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yuyuko Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				41
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yuyuko Down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				14
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yuyuko Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				3
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yuyuko Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuyuko Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuyuko",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yuyuko",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		80,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

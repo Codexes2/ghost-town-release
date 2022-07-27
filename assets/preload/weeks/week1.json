@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Till When", "youmu", [35, 127, 83]],
+		["Ultimate Truth", "youmu", [35, 127, 83]],
+		["Ghost Lead", "yuyuko", [214, 80, 137]],
+		["Border Of Life", "yuyuko", [214, 80, 137]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage1",
+
+	"storyName": "Ghost Town Incident",
+	"weekBefore": "Tutorial",
+	"weekName": "week1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

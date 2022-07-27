@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YoumuPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angy0000" x="0" y="0" width="704" height="606"/>
+	<SubTexture name="neutral0000" x="704" y="0" width="704" height="606"/>
+	<SubTexture name="neutral20000" x="0" y="606" width="704" height="606"/>
+	<SubTexture name="panick0000" x="704" y="606" width="704" height="606"/>
+	<SubTexture name="thinking0000" x="0" y="1212" width="704" height="606"/>
+	<SubTexture name="what0000" x="704" y="1212" width="704" height="606"/>
+</TextureAtlas>

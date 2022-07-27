@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "yukariText",
+			"speed": 0.05,
+			"portrait": "noChar",
+			"boxState": "normal",
+			"expression": "blank",
+			"text": "It seems you have passed on, little one."
+		},
+		{
+			"sound": "yukariText",
+			"speed": 0.05,
+			"portrait": "noChar",
+			"boxState": "normal",
+			"expression": "blank",
+			"text": "But this won't do, will it?"
+		},
+		{
+			"sound": "yukariText",
+			"speed": 0.04,
+			"portrait": "noChar",
+			"boxState": "normal",
+			"expression": "blank",
+			"text": "If you wish to return home, then you must find and defat one powerful enough to do so."
+		},
+		{
+			"sound": "yukariText",
+			"speed": 0.05,
+			"portrait": "noChar",
+			"boxState": "normal",
+			"expression": "blank",
+			"text": "Now go! Find one whose strength rules over all!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "noChar",
+			"boxState": "normal",
+			"expression": "blank",
+			"text": ".   .   ."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I should head back to my post."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Lady Yuyuko must be wondering where I am by now."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh, a lost spirit? What brings you here?"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "You want to challenge the mistress?"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral2",
+			"text": "I'm sorry, but that is something out of your ability."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.04,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I'll say it again, lost one."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.04,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "The mistress will not hesitate to kill you 10 times over."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral2",
+			"text": "So I suggest that you turn back now."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "... You are a persistent one."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.04,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral2",
+			"text": "If you truly hold such conviction, you'll have to get through me first!"
+		}
+	]
+}

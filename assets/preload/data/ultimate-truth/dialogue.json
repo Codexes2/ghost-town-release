@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "That was not a form of danmaku at all!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "Now who or what exactly are you-"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bap!"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.03,
+			"portrait": "youmu",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "HEY!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "noChar",
+			"text": ".   .   ."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.03,
+			"portrait": "youmu",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Stop right there!"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.04,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Now I don't know what exactly you did to nullify my bullets..."
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "But know this, lost one:"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.04,
+			"portrait": "youmu",
+			"boxState": "normal",
+			"expression": "neutral2",
+			"text": "as the gardener of this abode, and servant to Lady Yuyuko,"
+		},
+		{
+			"sound": "youmuText",
+			"speed": 0.05,
+			"portrait": "youmu",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I will make sure you will not lay a finger on her!"
+		}
+	]
+}

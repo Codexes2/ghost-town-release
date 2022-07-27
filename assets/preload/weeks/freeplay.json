@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Tutorial", "gf", [146, 113, 253]],
+		["Till When", "youmu", [146, 113, 253]],
+		["Ultimate Truth", "youmu", [146, 113, 253]],
+		["Ghost Lead", "yuyuko", [146, 113, 253]],
+		["Border Of Life", "yuyuko", [146, 113, 253]]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Freeplay",
+	"weekBefore": "Week 1",
+	"weekName": "Freeplay",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}
